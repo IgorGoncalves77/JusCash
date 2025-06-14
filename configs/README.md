@@ -38,7 +38,7 @@ docker swarm init
 **Token do Swarm:**
 
 ```bash
-docker swarm join --token SWMTKN-1-2pibn4c22mausf3ftu618xdyxa384ofo5c1hc3y0gwi8w7ogbp-bnn5lkiq7voz7iv9h995yqouh
+docker swarm join --token ********
 ```
 
 ---
